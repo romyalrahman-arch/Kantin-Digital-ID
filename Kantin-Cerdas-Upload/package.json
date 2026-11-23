@@ -1,0 +1,15 @@
+{
+  "name": "kantin-cerdas",
+  "version": "1.0.0",
+  "description": "Aplikasi Kantin Cerdas Realtime Fullstack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "keywords": ["kantin", "pos", "realtime", "sqlite"],
+  "author": "",
+  "license": "MIT"
+}
